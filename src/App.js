@@ -1,8 +1,4 @@
 import React from "react"
-
-//import ImageCallout from "./ImageCallout"
-//import EmailCallout from "./EmailCallout"
-//import Callout from "./Callout"
 import SearchMovies from "./SearchMovies"
 import './App.css';
 
